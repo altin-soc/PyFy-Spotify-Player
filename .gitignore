@@ -26,6 +26,9 @@ wheels/
 # PyInstaller
 *.spec
 
+# Batch files
+*.bat
+
 # IDE
 .idea/
 .vscode/
