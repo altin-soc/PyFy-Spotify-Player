@@ -132,7 +132,7 @@ This application uses OAuth 2.0 for secure authentication with Spotify. Your cre
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/zboni2/PyFy-Spotify-Player/blob/main/LICENSE) file for details.
 
 ## Contributing
 
