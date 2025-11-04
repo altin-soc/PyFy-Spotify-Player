@@ -2,7 +2,6 @@
 
 A lightweight, customizable Spotify player built with Python and Tkinter. Control your Spotify playback with a simple and intuitive interface.
 
-![Pyfy Screenshot](https://via.placeholder.com/300x300?text=Pyfy+Player+Screenshot)
 
 ## Features
 
