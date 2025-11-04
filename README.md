@@ -1,37 +1,46 @@
-# 🎵 Pyfy - Spotify Player
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-A lightweight, customizable Spotify player built with Python and Tkinter. Control your Spotify playback with a simple and intuitive interface.
-
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge&logo=github)](https://github.com/zboni2/PyFy-Spotify-Player/releases/latest)
+<div align="center">
+  <h1>🎵 Pyfy - Spotify Player</h1>
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![Latest Release](https://img.shields.io/github/v/release/zboni2/PyFy-Spotify-Player?label=latest%20version)](https://github.com/zboni2/PyFy-Spotify-Player/releases/latest)
+  
+  A lightweight, customizable Spotify player built with Python and Tkinter. Control your Spotify playback with a simple and intuitive interface.
+  
+  [![Download Now](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zboni2/PyFy-Spotify-Player/releases/latest/download/Pyfy.exe)
+</div>
 
 ## Features
 
-- Play/Pause, Next, and Previous track controls
-- Album art display
-- Hover-based controls that appear when needed
-- Custom application icon
-- Secure API credential handling
-- Single executable file for easy distribution
+- **Playback Controls** - Play, pause, skip tracks, and control volume
+- **Album Art** - Displays current track's album artwork
+- **Simple UI** - Clean, hover-based controls that appear when needed
+- **Secure** - Uses OAuth 2.0 for secure Spotify authentication
+- **Portable** - Single executable file, no installation required
+- **Fast & Lightweight** - Built for performance with minimal resource usage
 
-## Prerequisites
+## Quick Start
 
-Before using Pyfy, you'll need:
+1. **Download** the latest [Pyfy.exe](https://github.com/zboni2/PyFy-Spotify-Player/releases/latest/download/Pyfy.exe)
+2. **Run** the executable (make sure Spotify Desktop is running)
+3. **Authorize** with your Spotify account when prompted
+4. **Enjoy** controlling your music!
 
-1. A Spotify Premium account
-2. Spotify Desktop app installed and running
-3. Internet connection
+> **Note**: You'll need a **Spotify Premium** account to use this application.
 
-## Getting Started
+## System Requirements
 
-### For End Users
+- Windows 10/11 (64-bit)
+- Spotify Desktop app installed and running
+- Internet connection
+- [.NET Framework 4.7.2 or later](https://dotnet.microsoft.com/download/dotnet-framework) (usually pre-installed on Windows 10/11)
 
-1. Download the latest `Pyfy.exe` from the [releases page](https://github.com/zboni2/PyFy-Spotify-Player/releases)
-2. Run the executable
-3. The first time you run it, you'll be redirected to Spotify's authorization page
-4. Log in to your Spotify account and approve the permissions
-5. The app will automatically connect to your Spotify client
+## For Developers
+
+### Prerequisites
+
+- Python 3.8+
+- pip (Python package manager)
+- Git (for version control)
 
 ### For Developers
 
