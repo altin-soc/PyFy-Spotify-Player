@@ -6,7 +6,7 @@
   
   A lightweight, customizable Spotify player built with Python and Tkinter. Control your Spotify playback with a simple and intuitive interface.
   
-  [![Download Now](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zboni2/PyFy-Spotify-Player/releases/latest/download/Pyfy.exe)
+  [![Download Now](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/altin-soc/PyFy-Spotify-Player/releases/latest/download/Pyfy.exe)
 </div>
 
 ## Features
@@ -36,7 +36,7 @@
 3. Save the file
 
 ### Running the Application
-1. **Download** the latest [Pyfy.exe](https://github.com/zboni2/PyFy-Spotify-Player/releases/latest/download/Pyfy.exe)
+1. **Download** the latest [Pyfy.exe](https://github.com/altin-soc/PyFy-Spotify-Player/releases/latest/download/Pyfy.exe)
 2. **Run** the executable
 3. **Authorize** with your Spotify account when prompted
 4. **Enjoy** controlling your music!
@@ -70,7 +70,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/zboni2/PyFy-Spotify-Player.git
+   git clone https://github.com/altin-soc/PyFy-Spotify-Player.git
    cd PyFy-Spotify-Player
    ```
 
@@ -160,7 +160,7 @@ This application uses OAuth 2.0 for secure authentication with Spotify. Your cre
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/zboni2/PyFy-Spotify-Player/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/altin-soc/PyFy-Spotify-Player/blob/main/LICENSE) file for details.
 
 ## Contributing
 
